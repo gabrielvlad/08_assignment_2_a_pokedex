@@ -1,3 +1,7 @@
 .app__header {
   text-align: center;
 }
+
+.poke_logo {
+  max-width: 100%;
+}

@@ -1,5 +1,7 @@
-.about 
-{
+.about {
+    margin: 20px;
+    padding: 10px;
+    line-height: 1.5;
     text-align: center;
 }
-
+  
