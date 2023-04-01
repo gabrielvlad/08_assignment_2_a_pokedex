@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import PokemonList from "./components/PokemonList";
 import PokemonDetails from "./components/PokemonDetails";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom"; // Changed BrowserRouter to HashRouter to work with github pages
 import Header from "./components/Header";
 import About from "./components/About";
 import Footer from "./components/Footer";
