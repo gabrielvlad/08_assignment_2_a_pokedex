@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/08_assignment_2_a_pokedex/static/css/main.e2627a7b.css",
+    "main.css": "/08_assignment_2_a_pokedex/static/css/main.9bbf9dcc.css",
     "main.js": "/08_assignment_2_a_pokedex/static/js/main.58d8ff33.js",
     "static/js/787.c4f0950d.chunk.js": "/08_assignment_2_a_pokedex/static/js/787.c4f0950d.chunk.js",
     "static/media/BarcadeBrawl.ttf": "/08_assignment_2_a_pokedex/static/media/BarcadeBrawl.73895ecd83170778cce0.ttf",
     "static/media/pokedex.png": "/08_assignment_2_a_pokedex/static/media/pokedex.2800773d39069d735ecd.png",
     "index.html": "/08_assignment_2_a_pokedex/index.html",
-    "main.e2627a7b.css.map": "/08_assignment_2_a_pokedex/static/css/main.e2627a7b.css.map",
+    "main.9bbf9dcc.css.map": "/08_assignment_2_a_pokedex/static/css/main.9bbf9dcc.css.map",
     "main.58d8ff33.js.map": "/08_assignment_2_a_pokedex/static/js/main.58d8ff33.js.map",
     "787.c4f0950d.chunk.js.map": "/08_assignment_2_a_pokedex/static/js/787.c4f0950d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2627a7b.css",
+    "static/css/main.9bbf9dcc.css",
     "static/js/main.58d8ff33.js"
   ]
 }
